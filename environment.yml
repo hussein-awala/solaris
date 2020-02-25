@@ -4,7 +4,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python>=3.6
+  - python>=3.7
   - pip>=19.0.3
   - affine>=2.3.0
   - albumentations=0.4.3
